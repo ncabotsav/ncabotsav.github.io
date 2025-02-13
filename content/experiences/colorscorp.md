@@ -1,8 +1,8 @@
 ---
-title: "FuturePlay"
+title: "Nicolas CABOT-SAVIN - CV - FuturePlay"
 date: "2011-04-02"
 summary: "Découverte du monde de la musique dance/électronique"
-description: "FuturePlay est un label indépendant de musique Dance, Electro & Phonk Music pour les clubs au savoir-faire inspiré des labels Airplay Records, Panic Records..."
+description: "Création des newsletters et développement du premier site web de ce label french touch renommé."
 toc: false
 weight: 5
 ---

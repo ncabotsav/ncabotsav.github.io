@@ -1,8 +1,8 @@
 ---
-title: "Agence de communication 360"
+title: "Nicolas CABOT-SAVIN - CV - Agence de communication 360"
 date: "2013-07-28"
 summary: "Transformer toutes vos idées en réalité."
-description: "A probabilistic to-visit queue written in Rust, leveraging a Bloom Filter to detect already visited elements."
+description: "Accompagnement des PME et TPE dans la création d'une identité visuel, qu'elle soit sur papier ou digitale."
 toc: false
 weight: 4
 ---

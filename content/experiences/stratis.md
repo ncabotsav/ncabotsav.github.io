@@ -1,8 +1,8 @@
 ---
-title: "STRATIS"
+title: "Nicolas CABOT-SAVIN - CV - STRATIS"
 date: "2023-11-13"
 summary: "Au cœur de l'agence digitale numéro 1 du secteur public  "
-description: "A probabilistic to-visit queue written in Rust, leveraging a Bloom Filter to detect already visited elements."
+description: "Mon rôle : accompagner les développeurs dans la création des sites institutionnels en rédigeant des cahier de spécifications techniques."
 toc: false   
 weight: 1
 ---

@@ -1,8 +1,8 @@
 ---
-title: "TMR International"
+title: "Nicolas CABOT-SAVIN - CV - TMR"
 date: "2016-07-28"
 summary: "Au programme : croisières sur mesures et tours du monde luxueux."
-description: "A probabilistic to-visit queue written in Rust, leveraging a Bloom Filter to detect already visited elements."
+description: "Construction des supports de communication, enrigissement du site web et campagnes d'emailing."
 toc: false
 weight: 3
 ---
