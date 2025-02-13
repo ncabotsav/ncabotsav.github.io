@@ -1,0 +1,30 @@
+[[entries]]
+title = "Expériences"
+
+  [entries.post_list]
+  limit = 10
+  show_more = false
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "Formation"
+
+  [[entries.entries]]
+  title = "2020 : Certification Google Ads pour la publicité sur le Réseau Display"
+
+  [[entries.entries]]
+  title = "2010 : DUT MMI"
+  
+  [[entries.entries]]
+  title = "2008 : BAC STI Electronique"
+
+
+[[entries]]
+title = "Contact"
+
+  [[entries.entries]]
+  title = "🔗 LinkedIn"
+  url = "www.linkedin.com/in/nicolas-cabot-savin"
+  
+  

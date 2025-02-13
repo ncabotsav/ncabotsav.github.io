@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Nicolas Cabot-Savin</title>
+    <link>//localhost:61961/experiences/</link>
+    <description>Recent content in Experiences on Nicolas Cabot-Savin</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:61961/experiences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STRATIS</title>
+      <link>//localhost:61961/experiences/stratis/</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:61961/experiences/stratis/</guid>
+      <description>Au cœur de l&amp;rsquo;agence digitale numéro 1 du secteur public</description>
+    </item>
+    <item>
+      <title>WOWPRINT</title>
+      <link>//localhost:61961/experiences/wowprint/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>//localhost:61961/experiences/wowprint/</guid>
+      <description>Immersion au sein d&amp;rsquo;une imprimerie tous supports B2B varoise.</description>
+    </item>
+    <item>
+      <title>TMR International</title>
+      <link>//localhost:61961/experiences/tmr/</link>
+      <pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>//localhost:61961/experiences/tmr/</guid>
+      <description>Au programme : croisières sur mesures et tours du monde luxueux.</description>
+    </item>
+    <item>
+      <title>Agence de communication 360</title>
+      <link>//localhost:61961/experiences/agence/</link>
+      <pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>//localhost:61961/experiences/agence/</guid>
+      <description>Transformer toutes vos idées en réalité.</description>
+    </item>
+    <item>
+      <title>FuturePlay</title>
+      <link>//localhost:61961/experiences/colorscorp/</link>
+      <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>//localhost:61961/experiences/colorscorp/</guid>
+      <description>Découverte du monde de la musique dance/électronique</description>
+    </item>
+  </channel>
+</rss>
