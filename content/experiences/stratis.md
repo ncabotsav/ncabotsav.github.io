@@ -2,7 +2,7 @@
 title: "STRATIS"
 date: "2023-11-13"
 summary: "Au cœur de l'agence digitale numéro 1 du secteur public  "
-description: "Mon rôle : accompagner les développeurs dans la création des sites institutionnels en rédigeant des cahier de spécifications techniques."
+description: "Accompagnement et rédaction des spécificaitons fonctionnelles et techniques pour les développeurs web."
 toc: false   
 weight: 1
 ---
