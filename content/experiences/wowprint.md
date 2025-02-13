@@ -1,5 +1,5 @@
 ---
-title: "Nicolas CABOT-SAVIN - CV - WOWPRINT"
+title: "WOWPRINT"
 date: "2021-05-10"
 summary: "Immersion au sein d'une imprimerie tous supports B2B varoise."
 description: "Développement front-end du nouveau site web & stratégies marketing digital."

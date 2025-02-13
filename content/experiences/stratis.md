@@ -1,5 +1,5 @@
 ---
-title: "Nicolas CABOT-SAVIN - CV - STRATIS"
+title: "STRATIS"
 date: "2023-11-13"
 summary: "Au cœur de l'agence digitale numéro 1 du secteur public  "
 description: "Mon rôle : accompagner les développeurs dans la création des sites institutionnels en rédigeant des cahier de spécifications techniques."

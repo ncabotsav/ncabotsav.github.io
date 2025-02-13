@@ -26,5 +26,9 @@ title = "Contact"
   [[entries.entries]]
   title = "🔗 LinkedIn"
   url = "www.linkedin.com/in/nicolas-cabot-savin"
+
+  [[entries.entries]]
+  title = "✉️ Mail"
+  url = "mailto:ncabotsav@gmail.com"
   
   

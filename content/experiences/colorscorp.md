@@ -1,5 +1,5 @@
 ---
-title: "Nicolas CABOT-SAVIN - CV - FuturePlay"
+title: "Futureplay Label"
 date: "2011-04-02"
 summary: "Découverte du monde de la musique dance/électronique"
 description: "Création des newsletters et développement du premier site web de ce label french touch renommé."
