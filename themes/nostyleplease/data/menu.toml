@@ -28,6 +28,10 @@ title = "Contact"
   url = "https://www.linkedin.com/in/nicolas-cabot-savin"
 
   [[entries.entries]]
+  title = "Behance"
+  url = "https://www.behance.net/nicolascabotsavin"
+
+  [[entries.entries]]
   title = "Mail"
   url = "mailto:ncabotsav@gmail.com"
   
