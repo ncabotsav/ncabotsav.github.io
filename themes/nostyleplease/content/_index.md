@@ -4,5 +4,5 @@ date = 2022-08-25T21:30:04+08:00
 draft = false
 +++
 
-👋🏻 Bonjour ! Sur ce site vous trouverez mon parcours professionnel. Centré autour de l'information, vous ne trouverez pas de défilement parallaxe, d'intelligence artificielle ou de typographie cinétique, juste du texte brut. Pour en savoir plus, n'hésitez pas à me contacter.
+🎯 Fort de plus de 10 ans d’expérience dans le digital, j’ai développé une expertise transverse alliant architecture web, marketing digital, UX/UI et SEO. Mon parcours m’a permis d’accompagner des organisations dans la conception, la mise en œuvre et l’optimisation de solutions numériques performantes, en lien étroit avec les équipes techniques, métiers et clients.
 

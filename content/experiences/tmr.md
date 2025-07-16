@@ -1,5 +1,5 @@
 ---
-title: "TMR France"
+title: "TMR International"
 date: "2016-07-28"
 summary: "Au programme : croisières sur mesures et tours du monde luxueux."
 description: "Construction des supports de communication, enrigissement du site web et campagnes d'emailing."
