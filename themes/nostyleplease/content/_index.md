@@ -8,7 +8,7 @@ draft = false
   
 ## Expériences   
   
-**Architecte Fonctionnel et Solutions | Expert Web, Mobile & GRC - STRATIS**  
+### Architecte Fonctionnel et Solutions | Expert Web, Mobile & GRC - STRATIS  
   
 *nov. 2023 - aujourd’hui · La Farlède · Hybride*  
   
@@ -20,7 +20,7 @@ draft = false
 * Conception de wireframes et de parcours usagers en étroite collaboration avec les ergonomes et webdesigners, en veillant au respect des normes d’accessibilité (RGAA).  
 * Briefing des experts en tests, élaboration des plans de validation et animation des Retours d'Expérience (REX) pour une amélioration continue des processus de production.  
   
-**Responsable Marketing & Développeur Front-End - WOWPRINT**  
+### Responsable Marketing & Développeur Front-End - WOWPRINT  
   
 *avr. 2021 - oct. 2023 · La Garde · Sur site*  
   
@@ -33,7 +33,7 @@ draft = false
 * Suivi des indicateurs clés (KPI) : taux d'ouverture, taux de clic des campagnes et tunnel de conversion e-commerce pour ajustements continus.  
   
   
-**Webmaster & Responsable Digital Multi-canal - TMR International**  
+### Webmaster & Responsable Digital Multi-canal - TMR International  
   
 *juil. 2016 - mars 2021 · Marseille · Sur site*  
   
