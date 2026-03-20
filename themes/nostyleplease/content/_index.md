@@ -45,8 +45,8 @@ draft = false
 * Création et pilotage des campagnes Facebook Ads et stratégies de Retargeting pour maximiser le ROI des publications bimestrielles.  
 * Conception et réalisation des catalogues et des supports de communication print. Gestion complète de la chaîne graphique : mise en page complexe, préparation des fichiers pour l’impression (pré-presse), respect des contraintes techniques de production.  
   
-  
-**Consultant Digital 360° | Développeur Front-End & Graphiste - Freelance**  
+
+### Consultant Digital 360° | Développeur Front-End & Graphiste - Freelance  
   
 *janv. 2013 - juil. 2016 · Marseille · À distance*   
   
