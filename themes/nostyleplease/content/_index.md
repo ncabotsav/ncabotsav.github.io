@@ -1,15 +1,7 @@
-+++
-title =  "Accueil"
-date = 2022-08-25T21:30:04+08:00
-draft = false
-+++
+## Expériences
 
- 
-  
-## Expériences   
-  
-### Architecte Fonctionnel et Solutions | Expert Web, Mobile & GRC - STRATIS  
-  
+### Architecte Fonctionnel et Solutions - Expert Web, Mobile & GRC - STRATIS 
+
 *nov. 2023 - aujourd’hui · La Farlède · Hybride*  
   
 **Résultat clé :** Conception de l’architecture technique et fonctionnelle de plus de 50 écosystèmes digitaux (Villes, Agglomérations, Départements), garantissant la robustesse et l'interopérabilité des solutions.  
@@ -46,7 +38,7 @@ draft = false
 * Conception et réalisation des catalogues et des supports de communication print. Gestion complète de la chaîne graphique : mise en page complexe, préparation des fichiers pour l’impression (pré-presse), respect des contraintes techniques de production.  
   
 
-### Consultant Digital 360° | Développeur Front-End & Graphiste - Freelance  
+### Consultant Digital 360° - Développeur Front-End & Graphiste - Freelance  
   
 *janv. 2013 - juil. 2016 · Marseille · À distance*   
   
