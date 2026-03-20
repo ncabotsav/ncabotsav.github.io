@@ -38,3 +38,4 @@
     isListGroupByDate = false
     isShowFooter      = true
     show_description  = true
+    disableMenu = true
